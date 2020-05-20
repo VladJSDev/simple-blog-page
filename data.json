@@ -1,0 +1,31 @@
+{
+	"blogs": [
+		{
+			"id": "1",
+			"author": "Bangkok Post Public Company Limited",        
+            "title": "Seastead couple in crosshairs",
+			"description": "The Third Naval Area Command has filed a police complaint against an American man and his Thai wife who set up a floating living platform 12 nautical miles off the coast of Phuket, a practice also known as seasteading.",
+			"url": "https://www.bangkokpost.com/learning/advanced/1661936/seastead-couple-in-crosshairs",
+			"urlToImage": "https://www.bangkokpost.com/media/content/20190415/c1_1661936_620x413.jpg",
+			"publishedAt": "2019-04-15T05:32:00Z"
+		},
+		{
+			"id": "2",
+			"author": "David Cotle, David Cotle",
+            "title": "Asian Stocks Broadly Higher As China Hopes Endure, Focus on GDP",
+			"description": "Asia Pacific equity started a new week quite positively, with risk appetite stoked by tentative hopes that China’s economy may be picking up a bit of steam",
+			"url": "https://www.dailyfx.com/forex/market_alert/2019/04/15/Asian-Stocks-Broadly-Higher-As-China-Hopes-Endure-Focus-On-GDP.html",
+			"urlToImage": "https://www.bangkokpost.com/media/content/20190415/c1_1661936_620x413.jpg",
+			"publishedAt": "2019-04-15T05:28:00Z"
+		},
+		{
+			"id": "3",
+			"author": "Teresa Umali",
+            "title": "Securing the art trade with blockchain - OpenGov Asia",
+			"description": "Securing the art trade with blockchain OpenGov Asia It now has come to the point that art forgery has become so sophisticated that even the experts get fooled. As reported, researchers from the Swinburne...",
+			"url": "https://www.opengovasia.com/securing-the-art-trade-with-blockchain/",
+			"urlToImage": "https://www.opengovasia.com/wp-content/uploads/2019/04/blockchain-4097126_960_720.jpg",
+			"publishedAt": "2019-04-15T04:34:24Z"
+		}
+	]
+}
